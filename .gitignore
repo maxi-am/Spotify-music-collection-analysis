@@ -1,2 +1,5 @@
 # .gitignore 
-creds.py 
+creds.py
+.ipynb_checkpoints
+__pycache__
+.cache
